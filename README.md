@@ -16,3 +16,9 @@ Trajectory planning and control for a unicycle system, involving obstacle avoida
 - `unicycle_input.py`: Implements the control strategy for the unicycle based on differential flatness.
 - `cartpole.py`: Controller implementation for energy shaping in the cart-pole system.
 - `simulate_unicycle.py and cartpole_sim.py`: Scripts to simulate and visualize the system dynamics.
+
+## Results
+
+![unicycle_trajectory](https://github.com/user-attachments/assets/9d195618-9119-4b6e-b782-55f7ce22a84d)
+![cartpole_trajectory](https://github.com/user-attachments/assets/d8903354-ba5e-4542-bb5e-8faaead40e2e)
+
